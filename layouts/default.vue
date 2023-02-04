@@ -1,9 +1,9 @@
 <template>
 
     <div>
-        <GlobalAppHeader/> <!--Components-->
-        <slot/>
-        <GlobalAppFooter/> <!--Components-->
+        <GlobalAppHeader /> <!--Components-->
+        <slot />
+        <GlobalAppFooter /> <!--Components-->
     </div>
 
 </template>
